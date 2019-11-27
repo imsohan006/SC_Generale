@@ -1,5 +1,4 @@
 # SC_Generale
-Assignment
 
 
 Technology Used 
