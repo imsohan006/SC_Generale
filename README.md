@@ -4,7 +4,7 @@ Assignment
 
 Technology Used 
 
-	Spring boot, Node.js & npm
+	Java, Spring boot, Hibernate, Node.js & npm
 
 Database Used 
 
