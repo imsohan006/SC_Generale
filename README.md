@@ -2,8 +2,13 @@
 Assignment
 
 
-Technology Used :: Spring boot, Node.js & npm
-Database Used :: Apache DerbyDB ( used for testing only so, you will loose data after shutdown server )
+Technology Used 
+
+	Spring boot, Node.js & npm
+
+Database Used 
+
+	Apache DerbyDB ( used for testing only so, you will loose data after shutdown server )
 
 Additional UI server requirement 
 
